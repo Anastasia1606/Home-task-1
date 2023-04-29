@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\Мои документы\GeekBrains\Знакомство с языками программирования\Home Task 1\Task2_MaxNumber\obj\Debug\net6.0\Task2_MaxNumber.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Мои документы\GeekBrains\Знакомство с языками программирования\Home Task 1\Task2_MaxNumber\obj\Debug\net6.0\Task2_MaxNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Мои документы\GeekBrains\Знакомство с языками программирования\Home Task 1\Task2_MaxNumber\obj\Debug\net6.0\Task2_MaxNumber.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Мои документы\GeekBrains\Знакомство с языками программирования\Home Task 1\Task2_MaxNumber\obj\Debug\net6.0\Task2_MaxNumber.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Мои документы\GeekBrains\Знакомство с языками программирования\Home Task 1\Task2_MaxNumber\obj\Debug\net6.0\Task2_MaxNumber.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Мои документы\GeekBrains\Знакомство с языками программирования\Home Task 1\Task2_MaxNumber\bin\Debug\net6.0\Task2_MaxNumber.exe
+C:\Users\Lenovo\Desktop\Мои документы\GeekBrains\Знакомство с языками программирования\Home Task 1\Task2_MaxNumber\bin\Debug\net6.0\Task2_MaxNumber.deps.json
+C:\Users\Lenovo\Desktop\Мои документы\GeekBrains\Знакомство с языками программирования\Home Task 1\Task2_MaxNumber\bin\Debug\net6.0\Task2_MaxNumber.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Мои документы\GeekBrains\Знакомство с языками программирования\Home Task 1\Task2_MaxNumber\bin\Debug\net6.0\Task2_MaxNumber.dll
+C:\Users\Lenovo\Desktop\Мои документы\GeekBrains\Знакомство с языками программирования\Home Task 1\Task2_MaxNumber\bin\Debug\net6.0\Task2_MaxNumber.pdb
+C:\Users\Lenovo\Desktop\Мои документы\GeekBrains\Знакомство с языками программирования\Home Task 1\Task2_MaxNumber\obj\Debug\net6.0\Task2_MaxNumber.dll
+C:\Users\Lenovo\Desktop\Мои документы\GeekBrains\Знакомство с языками программирования\Home Task 1\Task2_MaxNumber\obj\Debug\net6.0\refint\Task2_MaxNumber.dll
+C:\Users\Lenovo\Desktop\Мои документы\GeekBrains\Знакомство с языками программирования\Home Task 1\Task2_MaxNumber\obj\Debug\net6.0\Task2_MaxNumber.pdb
+C:\Users\Lenovo\Desktop\Мои документы\GeekBrains\Знакомство с языками программирования\Home Task 1\Task2_MaxNumber\obj\Debug\net6.0\Task2_MaxNumber.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\Мои документы\GeekBrains\Знакомство с языками программирования\Home Task 1\Task2_MaxNumber\obj\Debug\net6.0\ref\Task2_MaxNumber.dll
